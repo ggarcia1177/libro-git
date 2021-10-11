@@ -1,0 +1,8 @@
+Curso de git ejemplos que estamos haciendo
+
+Le he cambiado el nombre al archivo se llama autores
+
+Author: German Garcia Rodriguez
+
+email: ggarcia@ilsarail.eu
+
